@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # TypeScript language support in Atom
 [![CI](https://github.com/atom/language-typescript/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/language-typescript/actions/workflows/ci.yml)
 
